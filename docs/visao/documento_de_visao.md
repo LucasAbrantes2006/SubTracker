@@ -4,10 +4,7 @@
 |---|---|
 | Projeto | SubTracker — Gestor de Assinaturas e Recorrências |
 | Etapa | Etapa 2 — Visão e Planejamento |
-| Versão | 1.0 |
-| Responsável principal | Daniel — Visão, Protótipos e Planejamento |
 | Equipe | Lucas (Infraestrutura e Identidade); Daniel (Visão, Protótipos e Planejamento); Guilherme (Modelagem Lógica e de Dados); Eduardo (Arquitetura e APIs) |
-| Status | Proposta para revisão e validação da equipe |
 
 ## 1. Contexto e Problema
 
