@@ -6,7 +6,7 @@ Aplicação web universitária para centralizar assinaturas e cobranças recorre
 
 - **Fase 1:** documentação e modelagem. Não implementar código de backend nesta fase.
 - **Fase 2:** desenvolvimento, hospedagem, testes funcionais e análises SAST/DAST.
-- **Fase 3:**Datas, ambiente de hospedagem, regras finais e prioridades devem ser validados pela equipe.
+- **Fase 3:** Datas, ambiente de hospedagem, regras finais e prioridades devem ser validados pela equipe.
 
 ## Tecnologias previstas
 
