@@ -1,0 +1,25 @@
+@startuml
+hide methods
+hide stereotypes
+skinparam linetype ortho
+
+entity categoria {
+  * id_categoria : INTEGER <<PK>>
+  --
+  nome : VARCHAR(100)
+}
+
+entity assinatura {
+  * id_assinatura : INTEGER <<PK>>
+  --
+  nome_servico : VARCHAR(150)
+  valor : DECIMAL(10,2)
+  moeda : CHAR(3)
+  ciclo_cobranca : VARCHAR(20)
+  status : BOOLEAN
+  data_renovacao : DATE
+  id_categoria : INTEGER <<FK>>
+}
+
+categoria ||--o{ assinatura : possui
+@enduml
