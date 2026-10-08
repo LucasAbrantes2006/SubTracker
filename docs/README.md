@@ -15,7 +15,7 @@ Esta pasta reúne os artefatos acadêmicos e técnicos do projeto. Cada integran
 
 ## Convenções
 
-- Use nomes descritivos em `snake_case` para arquivos Markdown, sem acentos quando possível.
+- Use nomes descritivos em `camelCase` para arquivos Markdown, sem acentos quando possível.
 - Inclua título, status (rascunho/revisão/aprovado), responsável e versão/data nos documentos sujeitos a revisão.
 - Prefira links relativos entre documentos para que continuem funcionando no GitHub.
 - Preserve rastreabilidade: requisitos importantes devem se relacionar a modelos, endpoints, testes e critérios de aceite.
