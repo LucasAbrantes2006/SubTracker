@@ -18,7 +18,7 @@ Aplicação web universitária para centralizar assinaturas e cobranças recorre
 
 - [Documento de Visão](docs/visao/documento_de_visao.md)
 - [Planejamento](docs/planejamento/planejamento.md)
-- [Identidade e infraestrutura](docs/identidade-infraestrutura/)
+- [Identidade e infraestrutura](docs/identidadeVisual/)
 - [Modelagem, casos de uso e DER](docs/modelagem/)
 - [Arquitetura](docs/arquitetura/)
 - [Contrato da API](docs/api/)
