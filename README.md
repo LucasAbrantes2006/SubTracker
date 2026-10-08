@@ -37,7 +37,3 @@ Os arquivos `.gitkeep` mantêm no Git diretórios ainda vazios; podem ser removi
 - **Daniel:** visão, protótipos e planejamento (Etapa 2)
 - **Guilherme:** modelagem lógica e de dados, casos de uso e DER (Etapa 3)
 - **Eduardo:** arquitetura, componentes, contrato REST e integração (Etapa 4)
-
-## Como contribuir
-
-Consulte [CONTRIBUTING.md](CONTRIBUTING.md). Alterações devem ser feitas em branches próprias, revisadas por outro integrante e alinhadas ao escopo e aos artefatos aprovados. Nunca envie credenciais, tokens, senhas ou arquivos `.env` ao repositório.
