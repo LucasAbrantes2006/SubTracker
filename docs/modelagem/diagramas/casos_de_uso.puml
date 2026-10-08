@@ -1,0 +1,20 @@
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+
+actor Usuario
+actor "API de Câmbio" as API
+
+rectangle SubTracker {
+  usecase "UC01 - Gerenciar\nAssinaturas" as UC01
+  usecase "UC02 - Pesquisar\nAssinaturas" as UC02
+  usecase "UC03 - Gerar Relatório\nFinanceiro" as UC03
+  usecase "UC04 - Converter\nValores Monetários" as UC04
+}
+
+Usuario -- UC01
+Usuario -- UC02
+Usuario -- UC03
+UC03 ..> UC04 : <<include>>
+API -- UC04
+@enduml
