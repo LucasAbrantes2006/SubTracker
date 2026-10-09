@@ -1,5 +1,5 @@
 ---
-name: Precision Ledger
+   name: SubTracker
 colors:
   surface: '#f8f9ff'
   surface-dim: '#cbdbf5'
