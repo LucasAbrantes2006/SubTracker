@@ -324,7 +324,7 @@ Este repositório segue a política de uso de IA da disciplina (semáforo pedag�
 - **Houve uso de IA neste projeto?** Sim.
 - **Ferramentas utilizadas:** Claude (Anthropic) e Gemini (Google).
 - **Finalidade:** a IA foi usada como apoio na escrita e na revisão dos documentos. No README, ajudou a organizar o conteúdo dentro do template da disciplina e a redigir o texto, que depois foi revisado e completado pelo grupo. Também foi usada para gerar o logotipo a partir da paleta e da ideia definidas pelo grupo, para conferir a coerência entre os documentos (por exemplo, rotas do contrato da API que estavam faltando) e para corrigir erros de formatação e de escrita.
-- **O que NÃO foi delegado à IA:** a escolha do tema e do problema, a definição do escopo e das funcionalidades, a escolha das tecnologias e da API externa, a divisão de tarefas entre os integrantes, as decisões de modelagem e de arquitetura e a revisão final de todo o material. Todo o conteúdo foi lido e conferido pelo grupo, que se responsabiliza por ele e consegue explicar cada decisão.
+- **O que NÃO foi delegado à IA:** a escolha do tema e do problema, a definição do escopo e das funcionalidades, a escolha das tecnologias e da API externa, a divisão de tarefas entre os integrantes, as decisões de modelagem e de arquitetura e a revisão final de todo o material. 
 
 ---
 
