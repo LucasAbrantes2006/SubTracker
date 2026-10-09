@@ -6,7 +6,7 @@ Esta pasta reúne os artefatos acadêmicos e técnicos do projeto. Cada integran
 |---|---|---|
 | `visao/` | Problema, objetivos, público, escopo, riscos e critérios de sucesso | Daniel — Etapa 2 |
 | `planejamento/` | Estratégia, RACI, backlog, marcos e gestão de riscos | Daniel — Etapa 2 |
-| `identidade-infraestrutura/` | Requisitos de identidade, ambiente e infraestrutura | Lucas — Etapa 1 |
+| `identidadeVisual/` | Requisitos de identidade, ambiente e infraestrutura | Lucas — Etapa 1 |
 | `modelagem/` | Casos de uso, modelo lógico, regras e DER | Guilherme — Etapa 3 |
 | `arquitetura/` | Componentes, decisões e visão técnica da solução | Eduardo — Etapa 4 |
 | `api/` | Contrato REST e especificação da integração externa | Eduardo — Etapa 4 |
